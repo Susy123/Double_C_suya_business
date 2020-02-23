@@ -11,6 +11,8 @@
 	"libVersion": "1.9.94",
 	"appid": "wxde4a2462f47e0600",
 	"projectname": "xiaoxiongjia",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

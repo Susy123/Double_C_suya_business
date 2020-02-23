@@ -1,9 +1,12 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/menu/index",
     "pages/shop-cart/index",
     "pages/my/index",
+    "pages/about/about",
+    "pages/kanjia/index",
+    "pages/notice/show",
     "pages/menu-list/index",
     "pages/goods-details/index",
     "pages/to-pay-order/index",
@@ -14,11 +17,11 @@
     "pages/fav-list/index",
     "pages/order-details/index"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "color": "#6e6d6b",
@@ -48,5 +51,6 @@
         "selectedIconPath": "images/tabbar/user-o.png"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
